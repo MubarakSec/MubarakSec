@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🛡️ MubarakSec — Cybersecurity & AI-Enhanced Dev
 
-<!--
-**MubarakSec/MubarakSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Grinding a 2-year mastery plan:
+- Linux | Networking | Exploits | Web Security
+- I build tools, use AI as my assistant, and ship code fast
 
-Here are some ideas to get you started:
+## 🧠 Current Focus
+- Payload building
+- Web hacking (XSS, SQLi, etc.)
+- Reverse engineering
+- Real-world hacking tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “Don’t ship perfect. Ship progress.”
